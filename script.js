@@ -18,7 +18,7 @@ const CARDAPIO = {
   ]
 };
 
-const WHATSAPP_NUMBER = "5547933752227"; // <-- Substitua pelo número real
+const WHATSAPP_NUMBER = "554733752227"; // <-- Substitua pelo número real
 
 let cart = [];
 let selectedSize = 'media';
